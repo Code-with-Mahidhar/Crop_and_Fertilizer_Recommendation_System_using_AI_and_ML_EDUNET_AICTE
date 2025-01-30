@@ -1,0 +1,1 @@
+# Crop_and_Fertilizer_Recommendation_System_using_AI_and_ML_EDUNET_AICTE
